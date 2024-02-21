@@ -1,2 +1,4 @@
 KERBELLEC Alphonse
 LECOMTE Paul
+
+Explication: n'ayant pas ajouter ce fichier dans la branche principal il n'apparait pas dans celle ci. Il existe cependant bien dans la branche : mon_fichier
